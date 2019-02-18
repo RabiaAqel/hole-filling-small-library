@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HoleFilling"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoleFilling">
+				<Option output="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/HoleFilling" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 HoleFilling"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoleFilling/fast">
+				<Option output="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/HoleFilling" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 HoleFilling/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/CmdUtility.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/CmdUtility.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/main.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/EmptyImage.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/EmptyImage.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalEpsilon.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalEpsilon.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalPixelConnectivity.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalPixelConnectivity.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalZ.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/IllegalZ.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/SizeMismatch.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/exceptions/SizeMismatch.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/filler/DefaultFillingStrategy.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/filler/DefaultFillingStrategy.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/filler/FillingStrategy.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/filler/HoleFiller.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/filler/HoleFiller.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/image/GrayscaleImage.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/image/GrayscaleImage.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/image/pixel/Pixel.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/image/pixel/PixelConnectivity.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/image/pixel/PixelConnectivity.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/utils/ImageUtil.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/utils/ImageUtil.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/weightfunction/EuclideanDistance.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/weightfunction/EuclideanDistance.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/src/weightfunction/WeightFunction.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/RunTests.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/RunTests.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/filler_test/FillerTest.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/filler_test/FillerTest.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/image_test/GrayscaleImageTest.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/image_test/GrayscaleImageTest.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/image_test/PixelConnectivityTest.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/image_test/PixelConnectivityTest.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/utils_test/ImageUtilTest.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/utils_test/ImageUtilTest.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/weightfunction_test/EucledianDistanceTest.cpp">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/tests/weightfunction_test/EucledianDistanceTest.h">
+			<Option target="HoleFilling"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/rabiaabuaqel/CLionProjects/Projects/HoleFilling/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
