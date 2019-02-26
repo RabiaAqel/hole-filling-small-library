@@ -64,7 +64,7 @@ Therefore, we get O(n x m)
 
 > Note that all areas of two-dimensional shapes are bounded by O(s\^2) if s is the perimeter.
 
-We can express the complexity as O(n x sqrt(n))
+We can express the complexity as O(n ^ 3)
 
 ## Approximate O(n) Algorithm Complexity
 
